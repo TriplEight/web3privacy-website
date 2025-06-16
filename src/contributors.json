@@ -61,7 +61,7 @@
       "type": "User",
       "user_view_type": "public",
       "site_admin": false,
-      "contributions": 950
+      "contributions": 951
     },
     {
       "login": "EclecticSamurai",
@@ -215,7 +215,7 @@
       "type": "User",
       "user_view_type": "public",
       "site_admin": false,
-      "contributions": 188
+      "contributions": 198
     },
     {
       "login": "f1nass",
@@ -438,6 +438,28 @@
       "contributions": 27
     },
     {
+      "login": "lucilapastore",
+      "id": 52759155,
+      "node_id": "MDQ6VXNlcjUyNzU5MTU1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52759155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lucilapastore",
+      "html_url": "https://github.com/lucilapastore",
+      "followers_url": "https://api.github.com/users/lucilapastore/followers",
+      "following_url": "https://api.github.com/users/lucilapastore/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lucilapastore/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lucilapastore/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lucilapastore/subscriptions",
+      "organizations_url": "https://api.github.com/users/lucilapastore/orgs",
+      "repos_url": "https://api.github.com/users/lucilapastore/repos",
+      "events_url": "https://api.github.com/users/lucilapastore/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lucilapastore/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false,
+      "contributions": 14
+    },
+    {
       "login": "Ressac-No1",
       "id": 119933943,
       "node_id": "U_kgDOByYL9w",
@@ -502,28 +524,6 @@
       "user_view_type": "public",
       "site_admin": false,
       "contributions": 12
-    },
-    {
-      "login": "lucilapastore",
-      "id": 52759155,
-      "node_id": "MDQ6VXNlcjUyNzU5MTU1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/52759155?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/lucilapastore",
-      "html_url": "https://github.com/lucilapastore",
-      "followers_url": "https://api.github.com/users/lucilapastore/followers",
-      "following_url": "https://api.github.com/users/lucilapastore/following{/other_user}",
-      "gists_url": "https://api.github.com/users/lucilapastore/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/lucilapastore/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/lucilapastore/subscriptions",
-      "organizations_url": "https://api.github.com/users/lucilapastore/orgs",
-      "repos_url": "https://api.github.com/users/lucilapastore/repos",
-      "events_url": "https://api.github.com/users/lucilapastore/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/lucilapastore/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false,
-      "contributions": 10
     },
     {
       "login": "shan8851",
